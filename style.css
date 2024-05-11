@@ -1,0 +1,14 @@
+td {
+    border: 1px solid silver;
+    border-right: none;
+    border-bottom: none;
+    margin: 0;
+    padding: 0;
+    width: 6px;
+    height: 6px;
+}
+
+td.exists {
+    background-color: black;
+    
+}
